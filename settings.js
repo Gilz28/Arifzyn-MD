@@ -14,7 +14,7 @@ global.numberowner = "62895347198105"; // Owner Utama
 global.owner = ["62895347198105"]; // Owner Lainnya
 global.namaowner = "Arifzyn."; // Nama Owner
 global.premium = ["62895347198105"]; // Premium User
-global.nobot = "62895347198105";
+global.nobot = "62895352119219";
 /* ~~~~~~~~~ SETTINGS BOT ~~~~~~~~~ */
 global.namabot = "Arifzyn-MD"; // NickBot
 global.typemenu = "v2"; // 'v1' > 'v2' > 'v3' > 'v4'
